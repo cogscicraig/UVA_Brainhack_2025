@@ -19,25 +19,14 @@
       </td>
       <td valign="top">
         <ul>
-          <li>Fridays, 12 - 5pm* (lunch provided!) -- starting <b>May 30th</b></li>
+          <li>Fridays @12-5pm* (lunch provided!) - <i>starting <b>May 30th</b></i></li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
-\* Meetings will typically consist of short lectures/discussions (\~1-2hrs) followed by "hacking" time (\~3-4hrs).
-
-<br><br>
-
----
-## Interest Form❗
-
-Please complete the associated [INTEREST FORM](https://docs.google.com/forms/d/e/1FAIpQLSfvPhS4zap0IQcJPFgHGkHC3FtQ1hPoZa68psjaY3ugceDI2A/viewform?usp=sharing) if you plan on joining us. 
-<br><br>
-I'm using this form to gauge interest and determine "Lunch-&-Learn" content -- let me know what you want us to cover! 
-<br><br>
-I've drafted a [tentative schedule](./schedule.md) with material I'm comfortable teaching, but I'm open to making adjustments based on whatever the group decides.
+\* Meetings will consist of short lectures/discussions (\~1-2hrs) followed by "hacking" time (\~3-4hrs).
 
 <br><br>
 
@@ -46,10 +35,21 @@ I've drafted a [tentative schedule](./schedule.md) with material I'm comfortable
 
 Format and tone inspired by the [Brainhack](https://brainhack.org/about.html) ethos -- open, inclusive, and collaborative -- emphasizing learning-by-doing, peer support, and a relaxed atmosphere 😎
 
-* **Open & inclusive.** All experience levels welcome! Questions encouraged, peer-support expected. Come ready to collaborate!
-* **Hands‑on.** Most of the time is reserved for "hacking" -- project-based learning in a supportive atmosphere. Will assign objectives for group learning, but folks with prior experience are welcome to work on their own projects.
-* **Reproducible.** Will use open data (OpenNeuro) and open tools (BIDS, fMRIPrep, Nilearn) to meet learning objectives. Code and other materials/resources shared via public GitHub repos.
+* **Open & inclusive.** All experience levels welcome! Questions encouraged, peer-support expected. Come ready to collaborate! <br>
+* **Hands‑on.** Most of the time is reserved for "hacking" -- project-based learning in a supportive atmosphere. Will assign objectives for group learning, but folks with prior experience are welcome to work on their own projects. <br>
+* **Reproducible.** Will use open data (OpenNeuro) and open tools (BIDS, fMRIPrep, Nilearn) to meet learning objectives. Code and other materials/resources shared via public GitHub repos. <br>
 * **Fun.** Lunch is social, hacking is collaborative, and all progress is celebrated ☺️
+
+<br><br>
+
+---
+## Interest Form❗
+
+Please complete the associated [INTEREST FORM](https://docs.google.com/forms/d/e/1FAIpQLSfvPhS4zap0IQcJPFgHGkHC3FtQ1hPoZa68psjaY3ugceDI2A/viewform?usp=sharing) if you plan on joining us.
+<br><br>
+I'm using this form to gauge interest and determine "Lunch-&-Learn" content -- let me know what you want us to cover! 
+<br><br>
+I've drafted a [tentative schedule](./schedule.md) with material I'm comfortable teaching, but I'm open to making adjustments based on whatever the group decides.
 
 <br><br>
 
