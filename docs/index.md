@@ -17,7 +17,7 @@ Please complete the associated [INTEREST FORM](https://docs.google.com/forms/d/e
 <br><br>
 I'm using this form to gauge interest and determine "Lunch-&-Learn" content -- let me know what you want us to cover! 
 <br><br>
-I've drafted a [tentative schedule](./schedule.html) with material I'm comfortable teaching, but I'm open to making adjustments based on whatever the group decides.
+I've drafted a [tentative schedule](./schedule2.md) with material I'm comfortable teaching, but I'm open to making adjustments based on whatever the group decides.
 
 <br><br>
 
