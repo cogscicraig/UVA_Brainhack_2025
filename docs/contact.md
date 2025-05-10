@@ -1,6 +1,6 @@
 # Contact Page 📫
 
 * ## Craig Gallagher 🤓 <br>
-  * **Role**: Organizer <br>
-  * **Email**: rcg7jb@virginia.edu <br>
-  * **GitHub**: CogSciCraig <br>
+  * **Role**: Organizer
+  * **Email**: [rcg7jb@virginia.edu](rcg7jb@virginia.edu)
+  * **GitHub**: CogSciCraig
