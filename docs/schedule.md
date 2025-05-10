@@ -7,7 +7,7 @@
 | 3                         | Jun 13     | **BIDS & OpenNeuro**<br>• Data organization standards                                                     | • Validate a BIDS dataset<br>• Download sample data       |
 | 4                         | Jun 20     | **MR Preprocessing**<br>• Step-by-step, the what and why                                                  | • Set up Docker/Apptainer for next week<br>               |
 | 5                         | Jun 27     | **fMRIPrep I: Running the Pipeline**                                                                      | • Launch fMRIPrep for one subject                         |
-| 6                         | Jul 4      | **HOLIDAY! NO MEETING**                                                                                   | • Have a blast, pun intended                              |
+| 6                         | Jul 4      | **HOLIDAY! NO MEETING**                                                                                   | • Have a blast -- pun intended                            |
 | 7                         | Jul 11     | **fMRIPrep II: QC & Outputs**                                                                             | • Inspect HTML reports<br>• Extract confounds             |
 | 8                         | Jul 18     | **GLM with Nilearn**<br>• First‑level (individual) stats                                                  | • Build design matrix<br>• Plot activation maps           |
 | 9                         | Jul 25     | **Machine‑Learning / MVPA**<br>• Decoding with Nilearn + scikit‑learn                                     | • Train a classifier<br>• Visualize weight maps           |
