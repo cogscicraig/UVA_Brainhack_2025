@@ -1,6 +1,6 @@
 # Summer Neuroimaging & Coding Workshop Series
 
-*A collaborative, Brainhack‑inspired learning space for psychology & neuroscience students at UVA*
+*A collaborative, Brainhack‑inspired learning space for psych & neuro students at UVA*
 
 **When:** Fridays, 12pm - 5pm (lunch provided!)  |  **Where:** Gilmer 300  |  **Dates:** May 30 - late August (extendable into fall semester)
 
@@ -8,10 +8,10 @@
 
 ## Philosophy 🧠💻
 
-* **Open & inclusive.** All experience levels welcome. Questions encouraged, peer-support expected.
-* **Hands‑on.** Short mini‑lectures (\~1 h) followed by "hacking" time (\~3–4 h).
+* **Open & inclusive.** All experience levels welcome! Questions encouraged, peer-support expected.
+* **Hands‑on.** Meetings typically consist of short lectures (\~1 h) followed by "hacking" time (\~3–4 h).
 * **Reproducible.** We use open data (OpenNeuro) and open tools (BIDS, fMRIPrep, Nilearn).
-* **Fun.** Lunch is social, hacking is collaborative, and progress is celebrated.
+* **Fun.** Lunch is social, hacking is collaborative, and all progress is celebrated :)
 
 ---
 
@@ -39,4 +39,4 @@
 
 This repo is GPLv3‑licensed. Data remain under the licenses specified by their original authors on OpenNeuro.
 
-> *“We can do without an extended family as human beings about as easily as we can do without vitamins or essential minerals.” -[Kurt Vonnegut](https://www.npr.org/transcripts/516534)*
+> *“We can do without an extended family as human beings about as easily as we can do without vitamins or essential minerals.” -[Kurt Vonnegut](https://www.npr.org/transcripts/5165342)*
