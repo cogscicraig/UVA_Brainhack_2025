@@ -1,8 +1,8 @@
 # Summer Neuroimaging & Coding Workshop Series
 
-*A collaborative, Brainhack‑inspired learning space for psychology & neuroscience students*
+*A collaborative, Brainhack‑inspired learning space for psychology & neuroscience students at UVA*
 
-**When:** Fridays, 12pm – 5pm (lunch provided!)  |  **Where:** Gilmer 300  |  **Dates:** May 30 – late August (extendable into Fall)
+**When:** Fridays, 12pm - 5pm (lunch provided!)  |  **Where:** Gilmer 300  |  **Dates:** May 30 - late August (extendable into Fall)
 
 ---
 
