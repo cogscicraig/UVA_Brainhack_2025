@@ -2,7 +2,7 @@
 
 *A collaborative, Brainhack‑inspired learning space for psych & neuro students at UVA*
 
-**When:** Fridays, 12pm - 5pm (lunch provided!)  |  **Where:** Gilmer 300  |  **Dates:** May 30 - late August (extendable into fall semester)
+**When:** Fridays, 12 - 5pm (lunch provided!)  |  **Where:** Gilmer 300  |  **Dates:** May 30 - late August (extendable into fall semester)
 
 ---
 
