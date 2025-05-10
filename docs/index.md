@@ -6,13 +6,13 @@
 <table>
   <thead>
     <tr>
-      <th>Where 🏠 </th>
-      <th>When 🕜 </th>
+      <th>Where 🏠</th>
+      <th>When 🕜</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top">Gilmer 300      </td>
+      <td valign="top"; white-space="nowrap";>Gilmer 300      </td>
       <td valign="top">Fridays @12-5pm* (lunch provided!) - <i>starting <b>May 30th</b></i></li></td>
     </tr>
   </tbody>
