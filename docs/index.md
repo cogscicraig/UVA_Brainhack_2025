@@ -20,6 +20,8 @@ I've drafted a [tentative schedule](./schedule.md) with material I'm comfortable
 ---
 ## Philosophy 🧠💻
 
+Format and tone inspired by the [Brainhack](https://brainhack.org/about.html) ethos -- open, inclusive, and collaborative -- emphasizing learning-by-doing, peer support, and a relaxed atmosphere 😎
+
 * **Open & inclusive.** All experience levels welcome! Questions encouraged, peer-support expected. Come ready to collaborate!
 * **Hands‑on.** Most of the time is reserved for "hacking" -- project-based learning in a supportive atmosphere. Will assign objectives for group learning, but folks with prior experience are welcome to work on their own projects.
 * **Reproducible.** Will use open data (OpenNeuro) and open tools (BIDS, fMRIPrep, Nilearn) to meet learning objectives. Code and other materials/resources shared via public GitHub repos.
