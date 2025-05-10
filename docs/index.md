@@ -40,7 +40,7 @@ Check out the [Weekly Schedule](./schedule.md)! I've included a basic list of to
 ---
 ## Resources 📚
 <sub>(will add as we go)<sub>
-* **Anaconda:** [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+* **Miniconda:** [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 * **BIDS:** [https://bids.neuroimaging.io](https://bids.neuroimaging.io)
 * **fMRIPrep:** [https://fmriprep.org](https://fmriprep.org)
 * **Nilearn Examples:** [https://nilearn.github.io](https://nilearn.github.io)
