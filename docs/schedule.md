@@ -1,6 +1,6 @@
 ## Weekly Schedule  📅
 
-| Week                      | Date       | Lunch‑&‑Learn Topic                                                                                       | Hands‑On Focus                                            |
+| Week                      | Date       | Lunch‑&‑Learn                                                                                             | Hands‑On Hacking                                          |
 | ------------------------- | ---------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | 1                         | **May 30** | **Intro**<br>• Discuss workshop goals<br>• Set up Python/Jupyter<br>• Bash 101                            | • Verify Python env<br>• Shell navigation & scripting     |
 | 2                         | Jun 6      | **MRI Foundations**<br>• Basic MR physics<br>• Brain mapping and BOLD fMRI                                | • Explore NIfTIs in Python<br>• Read DICOM/NIfTI Metadata |
