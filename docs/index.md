@@ -8,7 +8,7 @@
 
 \* Meetings will typically consist of short lectures/discussions (\~1-2hrs) followed by "hacking" time (\~3-4hrs).
 
-<br>
+<br><br>
 
 ---
 ## Interest Form❗
@@ -19,7 +19,7 @@ I'm using this form to gauge interest and determine "Lunch-&-Learn" content -- l
 <br><br>
 I've drafted a [tentative schedule](./schedule.html) with material I'm comfortable teaching, but I'm open to making adjustments based on whatever the group decides.
 
-<br>
+<br><br>
 
 ---
 ## Philosophy 🧠💻
@@ -31,14 +31,14 @@ Format and tone inspired by the [Brainhack](https://brainhack.org/about.html) et
 * **Reproducible.** Will use open data (OpenNeuro) and open tools (BIDS, fMRIPrep, Nilearn) to meet learning objectives. Code and other materials/resources shared via public GitHub repos.
 * **Fun.** Lunch is social, hacking is collaborative, and all progress is celebrated ☺️
 
-<br>
+<br><br>
 
 ---
 ## (Tentative) Schedule 📅
 
 Check out the [Weekly Schedule](./schedule.html)! I've included a basic list of topics we could cover, but I'm happy to adjust it according whatever y'all are interested in!
 
-<br>
+<br><br>
 
 ---
 ## Quick Start 🚀
@@ -47,7 +47,7 @@ Check out the [Weekly Schedule](./schedule.html)! I've included a basic list of 
 3. **Create a GitHub account** if you don’t have one
 4. **[Get in touch](./contact.md)!** -- Let me know if you have any questions, concerns, or recommendations
 
-<br>
+<br><br>
 
 ---
 ## Resources 📚
@@ -58,14 +58,14 @@ Check out the [Weekly Schedule](./schedule.html)! I've included a basic list of 
 * **Nilearn Examples:** [https://nilearn.github.io](https://nilearn.github.io)
 * **Brainhack Handbook:** [https://brainhack.org/handbook](https://brainhack.org/handbook)
 
-<br>
+<br><br>
 
 ---
 ## Contact Page 📫
 
 Check out the [contact page](./contact.md) if you want to get in touch with folks! I'll add info for other attendees once we kick things off.
 
-<br>
+<br><br>
 
 ---
 ## License 📝
