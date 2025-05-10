@@ -2,11 +2,11 @@
 
 *A collaborative, Brainhack‑inspired learning space for psychology & neuroscience students at UVA*
 
-**When:** Fridays, 12pm - 5pm (lunch provided!)  |  **Where:** Gilmer 300  |  **Dates:** May 30 - late August (extendable into Fall)
+**When:** Fridays, 12pm - 5pm (lunch provided!)  |  **Where:** Gilmer 300  |  **Dates:** May 30 - late August (extendable into fall semester)
 
 ---
 
-## Workshop Philosophy 🧠💻
+## Philosophy 🧠💻
 
 * **Open & inclusive.** All experience levels welcome. Questions encouraged, peer-support expected.
 * **Hands‑on.** Short mini‑lectures (\~1 h) followed by "hacking" time (\~3–4 h).
@@ -15,27 +15,27 @@
 
 ---
 
-## Quick Start  🚀
+## Quick Start 🚀
 
-1. **Install the toolkit** *(before Week 1)*. I recommend [Miniconda](https://docs.conda.io/en/latest/miniconda.html) plus the `environment.yml` in this repo so you have all the necessay packages.
-2. **Create a GitHub account** if you don’t have one.
-3. **Clone this repo**:
+1. **Install the toolkit**. I recommend [Miniconda](https://docs.conda.io/en/latest/miniconda.html) plus the `environment.yml` in this repo so you have all the necessay packages.
+2. **Create a GitHub account** if you don’t have one, and ...
+3. **Clone this repo!**:
    ```bash
    git clone https://github.com/cogscicraig/UVA_Brainhack_2025.git
    ```
 
 ---
 
-## Resources  📚
+## Resources 📚
 
-* **BIDS Spec:** [https://bids.neuroimaging.io](https://bids.neuroimaging.io)
-* **fMRIPrep Docs:** [https://fmriprep.org](https://fmriprep.org)
+* **BIDS:** [https://bids.neuroimaging.io](https://bids.neuroimaging.io)
+* **fMRIPrep:** [https://fmriprep.org](https://fmriprep.org)
 * **Nilearn Examples:** [https://nilearn.github.io](https://nilearn.github.io)
 * **Brainhack Handbook:** [https://brainhack.org/handbook](https://brainhack.org/handbook)
 
 ---
 
-## License  📝
+## License 📝
 
 This repo is GPLv3‑licensed. Data remain under the licenses specified by their original authors on OpenNeuro.
 
