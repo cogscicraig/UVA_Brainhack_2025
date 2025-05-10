@@ -3,7 +3,7 @@
 
 | Week | Date    | Lunch‑&‑Learn                                                                          | Hands‑On Hacking                                          |
 | ---- | ------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| 1    | May 30  | **Intro** <ul><li>Discuss workshop goals</li><li>Set up Python/Jupyter</li><li>Bash 101</li></ul> | <ul><li>Verify Python env</li><li>Shell navigation & scripting</li></ul> |
+| 1    | May 30  | **Intro** <div><ul><li>Discuss workshop goals</li><li>Set up Python/Jupyter</li><li>Bash 101</li></ul></div> | <ul><li>Verify Python env</li><li>Shell navigation & scripting</li></ul> |
 | 2    | Jun 6   | **MRI Foundations** <ul><li>Basic MR physics</li><li>Brain mapping and BOLD fMRI</li></ul>         | <ul><li>Explore NIfTIs in Python</li><li>Read and interpret DICOM/NIfTI Metadata</li></ul> |
 | 3    | Jun 13  | **BIDS & OpenNeuro** <ul><li>Data organization standards</li></ul>                               | <ul><li>Validate a BIDS dataset</li><li>Download sample data</li></ul> |
 | 4    | Jun 20  | **MR Preprocessing** <ul><li>Step-by-step, the *what* and *why*</li></ul>                             | <ul><li>Set up Docker/Apptainer for next week</li></ul> |
