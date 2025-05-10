@@ -4,7 +4,7 @@
 
 | Where 🏠 | When 🕜                        |
 | -------- | ------------------------------- |
-|Gilmer 300 |Fridays, 12 - 5pm\* (lunch provided!) -- *starting **May 30th*** |
+|* Gilmer 300 |* Fridays, 12 - 5pm\* (lunch provided!) -- *starting **May 30th*** |
 
 \* Meetings will typically consist of short lectures/discussions (\~1-2hrs) followed by "hacking" time (\~3-4hrs).
 
