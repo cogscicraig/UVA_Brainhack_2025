@@ -8,6 +8,8 @@
 
 \* Meetings will typically consist of short lectures/discussions (\~1-2hrs) followed by "hacking" time (\~3-4hrs).
 
+<br>
+
 ---
 ## Interest Form❗
 
@@ -15,7 +17,9 @@ Please complete the associated [INTEREST FORM](https://docs.google.com/forms/d/e
 <br><br>
 I'm using this form to gauge interest and determine "Lunch-&-Learn" content -- let me know what you want us to cover! 
 <br><br>
-I've drafted a [tentative schedule](./schedule.md) with material I'm comfortable teaching, but I'm open to making adjustments based on whatever the group decides.
+I've drafted a [tentative schedule](./schedule.html) with material I'm comfortable teaching, but I'm open to making adjustments based on whatever the group decides.
+
+<br>
 
 ---
 ## Philosophy 🧠💻
@@ -27,10 +31,14 @@ Format and tone inspired by the [Brainhack](https://brainhack.org/about.html) et
 * **Reproducible.** Will use open data (OpenNeuro) and open tools (BIDS, fMRIPrep, Nilearn) to meet learning objectives. Code and other materials/resources shared via public GitHub repos.
 * **Fun.** Lunch is social, hacking is collaborative, and all progress is celebrated ☺️
 
+<br>
+
 ---
 ## (Tentative) Schedule 📅
 
-Check out the [Weekly Schedule](./schedule.md)! I've included a basic list of topics we could cover, but I'm happy to adjust it according whatever y'all are interested in!
+Check out the [Weekly Schedule](./schedule.html)! I've included a basic list of topics we could cover, but I'm happy to adjust it according whatever y'all are interested in!
+
+<br>
 
 ---
 ## Quick Start 🚀
@@ -38,6 +46,8 @@ Check out the [Weekly Schedule](./schedule.md)! I've included a basic list of to
 1. **Complete the [INTEREST FORM](https://docs.google.com/forms/d/e/1FAIpQLSfvPhS4zap0IQcJPFgHGkHC3FtQ1hPoZa68psjaY3ugceDI2A/viewform?usp=sharing)** if you haven't already
 3. **Create a GitHub account** if you don’t have one
 4. **[Get in touch](./contact.md)!** -- Let me know if you have any questions, concerns, or recommendations
+
+<br>
 
 ---
 ## Resources 📚
@@ -48,10 +58,14 @@ Check out the [Weekly Schedule](./schedule.md)! I've included a basic list of to
 * **Nilearn Examples:** [https://nilearn.github.io](https://nilearn.github.io)
 * **Brainhack Handbook:** [https://brainhack.org/handbook](https://brainhack.org/handbook)
 
+<br>
+
 ---
 ## Contact Page 📫
 
 Check out the [contact page](./contact.md) if you want to get in touch with folks! I'll add info for other attendees once we kick things off.
+
+<br>
 
 ---
 ## License 📝
