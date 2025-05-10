@@ -12,15 +12,9 @@
   </thead>
   <tbody>
     <tr>
-      <td valign="top">
-        <ul>
-          <li>Gilmer 300</li>
-        </ul>
+      <td valign="top">Gilmer 300
       </td>
-      <td valign="top">
-        <ul>
-          <li>Fridays @12-5pm* (lunch provided!) - <i>starting <b>May 30th</b></i></li>
-        </ul>
+      <td valign="top">Fridays @12-5pm* (lunch provided!) - <i>starting <b>May 30th</b></i></li>
       </td>
     </tr>
   </tbody>
