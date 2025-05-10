@@ -12,6 +12,6 @@
 | 8                         | Jul 18     | **GLM with Nilearn**<br>• First‑level (individual) stats                                                  | • Build design matrix<br>• Plot activation maps           |
 | 9                         | Jul 25     | **Machine‑Learning / MVPA**<br>• Decoding with Nilearn + scikit‑learn                                     | • Train a classifier<br>• Visualize weight maps           |
 | 10                        | Aug 1      | **Hackathon Day**<br>• Project sprint & troubleshooting                                                   | • Code, analyze, document                                 |
-| 11\*                      | Aug 8      | **Show‑and‑Tell / Next Steps**                                                                            | • Present projects<br>• Plan Fall topics                  |
+| 11                        | Aug 8      | **Show‑and‑Tell / Next Steps**                                                                            | • Present projects<br>• Plan Fall topics                  |
 
-<sub>\*Schedule subject to change! Fall extension TBD.</sub>
+<sub>*Schedule subject to change!* Fall extension TBD.</sub>
