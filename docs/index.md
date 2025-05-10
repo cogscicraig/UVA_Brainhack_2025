@@ -17,7 +17,7 @@ Please complete the associated [INTEREST FORM](https://docs.google.com/forms/d/e
 <br><br>
 I'm using this form to gauge interest and determine "Lunch-&-Learn" content -- let me know what you want us to cover! 
 <br><br>
-I've drafted a [tentative schedule](./schedule2.md) with material I'm comfortable teaching, but I'm open to making adjustments based on whatever the group decides.
+I've drafted a [tentative schedule](./schedule.md) with material I'm comfortable teaching, but I'm open to making adjustments based on whatever the group decides.
 
 <br><br>
 
@@ -36,7 +36,7 @@ Format and tone inspired by the [Brainhack](https://brainhack.org/about.html) et
 ---
 ## (Tentative) Schedule 📅
 
-Check out the [Weekly Schedule](./schedule.html)! I've included a basic list of topics we could cover, but I'm happy to adjust it according whatever y'all are interested in!
+Check out the [Weekly Schedule](./schedule.md)! I've included a basic list of topics we could cover, but I'm happy to adjust it according whatever y'all are interested in!
 
 <br><br>
 
