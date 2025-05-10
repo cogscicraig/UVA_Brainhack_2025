@@ -22,7 +22,7 @@
           <li>Bash 101</li>
         </ul>
       </td>
-      <td valign="top">
+      <td valign="center">
         <ul>
           <li>Verify Python env</li>
           <li>Shell navigation &amp; scripting</li>
@@ -38,7 +38,7 @@
           <li>Brain mapping and BOLD fMRI</li>
         </ul>
       </td>
-      <td valign="top">
+      <td valign="center">
         <ul>
           <li>Explore NIfTIs in Python</li>
           <li>Read and interpret DICOM/NIfTI Metadata</li>
@@ -53,7 +53,7 @@
           <li>Data organization standards</li>
         </ul>
       </td>
-      <td valign="top">
+      <td valign="center">
         <ul>
           <li>Validate a BIDS dataset</li>
           <li>Download sample data</li>
@@ -68,7 +68,7 @@
           <li>Step-by-step, the <em>what</em> and <em>why</em></li>
         </ul>
       </td>
-      <td valign="top">
+      <td valign="center">
         <ul>
           <li>Set up Docker/Apptainer for next week</li>
         </ul>
@@ -78,7 +78,7 @@
       <td valign="top">5</td>
       <td valign="top">Jun 27</td>
       <td valign="top"><strong>fMRIPrep (I): Running the Pipeline</strong></td>
-      <td valign="top">
+      <td valign="center">
         <ul>
           <li>Launch fMRIPrep for one subject</li>
         </ul>
@@ -88,7 +88,7 @@
       <td valign="top">6</td>
       <td valign="top">Jul 4</td>
       <td valign="top"><strong>HOLIDAY! NO MEETING</strong></td>
-      <td valign="top">
+      <td valign="center">
         <ul>
           <li>Have a blast -- pun intended</li>
         </ul>
@@ -98,7 +98,7 @@
       <td valign="top">7</td>
       <td valign="top">Jul 11</td>
       <td valign="top"><strong>fMRIPrep (II): QC &amp; Outputs</strong></td>
-      <td valign="top">
+      <td valign="center">
         <ul>
           <li>Inspect HTML reports</li>
           <li>Extract confounds</li>
@@ -113,7 +113,7 @@
           <li>First‑level (individual) stats</li>
         </ul>
       </td>
-      <td valign="top">
+      <td valign="center">
         <ul>
           <li>Build design matrix</li>
           <li>Plot activation maps</li>
@@ -128,7 +128,7 @@
           <li>Decoding with Nilearn + scikit‑learn</li>
         </ul>
       </td>
-      <td valign="top">
+      <td valign="center">
         <ul>
           <li>Train a classifier</li>
           <li>Visualize weight maps</li>
@@ -143,7 +143,7 @@
           <li>Project sprint &amp; troubleshooting</li>
         </ul>
       </td>
-      <td valign="top">
+      <td valign="center">
         <ul>
           <li>Code, analyze, document</li>
         </ul>
@@ -153,7 +153,7 @@
       <td valign="top">11</td>
       <td valign="top">Aug 8</td>
       <td valign="top"><strong>Show‑and‑Tell / Next Steps</strong></td>
-      <td valign="top">
+      <td valign="center">
         <ul>
           <li>Present projects</li>
           <li>Plan Fall topics</li>
