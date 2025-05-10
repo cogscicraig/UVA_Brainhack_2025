@@ -2,9 +2,29 @@
 
 *A collaborative, Brainhack‑inspired learning space for UVA students*
 
-| Where 🏠 | When 🕜                        |
-| -------- | ------------------------------- |
-|* Gilmer 300 |* Fridays, 12 - 5pm\* (lunch provided!) -- *starting **May 30th*** |
+<!-- raw HTML below -->
+<table>
+  <thead>
+    <tr>
+      <th>Where 🏠</th>
+      <th>When 🕜</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <ul>
+          <li>Gilmer 300</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <ul>
+          <li>Fridays, 12 - 5pm* (lunch provided!) -- starting <b>May 30th</b></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 \* Meetings will typically consist of short lectures/discussions (\~1-2hrs) followed by "hacking" time (\~3-4hrs).
 
