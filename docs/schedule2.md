@@ -1,5 +1,5 @@
-## Weekly Schedule 📅
-<sub>*subject to change!</sub>
+## Weekly Schedule* 📅
+<sub>* subject to change!</sub>
 
 <!-- raw HTML below -->
 <table>
