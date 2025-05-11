@@ -16,7 +16,7 @@
         <ul><b>Gilmer 300</b></ul>
       </td>
       <td>
-        <ul><b>Fridays @12-5pm</b>* <i>starting <b>May 30th</b></i></ul>
+        <ul><b>Fridays 12-5pm</b>* <i>starting <b>May 30th</b></i></ul>
       </td>
     </tr>
   </tbody>
