@@ -37,10 +37,12 @@
 
 Format and tone inspired by the [Brainhack](https://brainhack.org/about.html) ethos -- open, inclusive, and collaborative -- emphasizing learning-by-doing, peer support, and a relaxed atmosphere 😎☀️ Perfect for summertime, y'all!
 
+<br>
+
 * **Open & inclusive.** All experience levels welcome! Questions encouraged, peer-support expected. Come ready to collaborate! <br><br>
 * **Hands‑on.** Most of the time is reserved for "hacking" -- project-based learning in a supportive atmosphere. I will design objectives for group learning once we've finalized the schedule, but folks with prior experience are always welcome to work on their own projects. <br><br>
 * **Reproducible.** Will use open data (OpenNeuro) and open tools (BIDS, fMRIPrep, Nilearn) to meet learning objectives. Code and other materials/resources shared via public GitHub repos licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). <br><br>
-* **Fun.** Lunch is social, hacking is collaborative, and all progress is celebrated ☺️
+* **Fun.** Lunch is social, hacking is collaborative, and all progress is celebrated ☺️ <br><br>
 
 (That all sound great, Craig, but I still don't understand... **[Why are you doing this??](./why.md)**)
 
