@@ -95,5 +95,5 @@ Check out the [contact list](./contact.md) if you want to get in touch with folk
 ---
 ## License 📝
 
-This repo is licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html): all users have the freedom to run, copy, distribute, study, change, and improve what's here.*
+This repo is licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html): all users have the freedom to run, copy, distribute, study, change, and improve what's here.* <br>
 <sub>* Data from OpenNeuro remain under the licenses specified by their original authors<sub>
