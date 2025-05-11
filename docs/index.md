@@ -1,6 +1,6 @@
 # Summer Neuroimaging & Coding Workshop Series
 
-*A collaborative, Brainhack‑inspired learning space for UVA students*
+*A collaborative, Brainhack‑inspired learning space*
 
 <!-- raw HTML below -->
 <table>
@@ -22,18 +22,18 @@
   </tbody>
 </table>
 
-\* Meetings will consist of short lectures/discussions (\~1-2hrs) followed by "hacking" time (\~3-4hrs). Lunch will be provided courtesy of the Morris/Connelly Labs.
+\* Meetings will consist of informal lectures/discussions (\~1-2hrs) followed by "hacking" -- time set aside for hands-on learning with other code-curious folks. Lunch will be provided courtesy of the Morris/Connelly Labs! 🥪
 
 <br><br>
 
 ---
 ## Philosophy 🧠💻
 
-Format and tone inspired by the [Brainhack](https://brainhack.org/about.html) ethos -- open, inclusive, and collaborative -- emphasizing learning-by-doing, peer support, and a relaxed atmosphere 😎
+Format and tone inspired by the [Brainhack](https://brainhack.org/about.html) ethos -- open, inclusive, and collaborative -- emphasizing learning-by-doing, peer support, and a relaxed atmosphere 😎☀️
 
-* **Open & inclusive.** All experience levels welcome! Questions encouraged, peer-support expected. Come ready to collaborate! <br>
-* **Hands‑on.** Most of the time is reserved for "hacking" -- project-based learning in a supportive atmosphere. Will assign objectives for group learning, but folks with prior experience are welcome to work on their own projects. <br>
-* **Reproducible.** Will use open data (OpenNeuro) and open tools (BIDS, fMRIPrep, Nilearn) to meet learning objectives. Code and other materials/resources shared via public GitHub repos. <br>
+* **Open & inclusive.** All experience levels welcome! Questions encouraged, peer-support expected. Come ready to collaborate! <br><br>
+* **Hands‑on.** Most of the time is reserved for "hacking" -- project-based learning in a supportive atmosphere. Will assign objectives for group learning, but folks with prior experience are welcome to work on their own projects. <br><br>
+* **Reproducible.** Will use open data (OpenNeuro) and open tools (BIDS, fMRIPrep, Nilearn) to meet learning objectives. Code and other materials/resources shared via public GitHub repos. <br><br>
 * **Fun.** Lunch is social, hacking is collaborative, and all progress is celebrated ☺️
 
 <br><br>
