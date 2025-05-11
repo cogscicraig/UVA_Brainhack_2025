@@ -44,15 +44,13 @@ Format and tone inspired by the [Brainhack](https://brainhack.org/about.html) et
 Please complete the associated [INTEREST FORM](https://docs.google.com/forms/d/e/1FAIpQLSfvPhS4zap0IQcJPFgHGkHC3FtQ1hPoZa68psjaY3ugceDI2A/viewform?usp=sharing) if you plan on joining us.
 <br><br>
 I'm using this form to gauge interest and determine "Lunch-&-Learn" content -- let me know what you want us to cover! 
-<br><br>
-I've drafted a [tentative schedule](./schedule.md) with material I'm comfortable teaching, but I'm open to making adjustments based on whatever the group decides.
 
 <br><br>
 
 ---
 ## (Tentative) Schedule 📅
 
-Check out the [Weekly Schedule](./schedule.md)! I've included a basic list of topics we could cover, but I'm happy to adjust it according whatever y'all are interested in!
+Check out the [Weekly Schedule](./schedule.md)! I've included a basic list of topics we *could* cover, but I'm happy to make adjustments -- it really depends on who all wants to participate. I'm currently planning to update the schedule once more folks have responded to the interest form to let me know what they hope to learn.
 
 <br><br>
 
