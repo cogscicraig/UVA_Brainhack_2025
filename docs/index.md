@@ -13,16 +13,16 @@
   <tbody>
     <tr>
       <td>
-        <ul>Gilmer 300</ul>
+        <ul><b>Gilmer 300</b></ul>
       </td>
       <td>
-        <ul>Fridays @12-5pm* (lunch provided!) - <i>starting <b>May 30th</b></i></ul>
+        <ul><b>Fridays @12-5pm</b>* <i>starting <b>May 30th</b></i></ul>
       </td>
     </tr>
   </tbody>
 </table>
 
-\* Meetings will consist of short lectures/discussions (\~1-2hrs) followed by "hacking" time (\~3-4hrs).
+\* Meetings will consist of short lectures/discussions (\~1-2hrs) followed by "hacking" time (\~3-4hrs). Lunch will be provided courtesy of the Morris/Connelly Labs.
 
 <br><br>
 
