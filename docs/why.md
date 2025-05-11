@@ -4,7 +4,7 @@ I'll tell you why! <br>
 
 <p>Before my time, so I'm told, Morris Lab members used to hold regular meetings to write/edit code and talk about neuroimaging. Oh! Those were the days! (I imagine)</p>
 <p>Well, we're a dry lab that does a lot of human neuroimaging work, so this makes sense. But in the wake of the global COVID-19 pandemic this practice waned. Senior lab members graduated, and it died off completely... </p>
-<p>But now I aim to bring it back, bigger and better than ever! Like a pheonix, rising from the ashes -- Kaww! Screech! Kaww! 🐥🔥 </p>
+<p>But now I aim to bring it back, bigger and better than ever! Like a pheonix rising from the ashes -- Kaww! Screech! Kaww! 🐥🔥 </p>
 
 <p>
   So, yeah, here we are. I want to create a space for students (not just Morris lab members, since I'm about to be the only one) to come together to write code and geek out about neuroimaging. And I want to give new students, in particular, a fun environment to learn the basics and best practices of coding for brain research.
