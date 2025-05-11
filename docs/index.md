@@ -44,6 +44,8 @@ Format and tone inspired by the [Brainhack](https://brainhack.org/about.html) et
 * **Reproducible.** Will use open data (OpenNeuro) and open tools (BIDS, fMRIPrep, Nilearn) to meet learning objectives. Code and other materials/resources shared via public GitHub repos licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). <br><br>
 * **Fun.** Lunch is social, hacking is collaborative, and all progress is celebrated ☺️ <br><br>
 
+<br>
+
 (That all sound great, Craig, but I still don't understand... **[Why are you doing this??](./why.md)**)
 
 <br><br>
