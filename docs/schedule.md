@@ -2,6 +2,7 @@
 <sub>* subject to change!</sub>
 
 <!-- raw HTML below -->
+<div class="responsive-table">
 <table>
   <thead>
     <tr>
@@ -162,5 +163,6 @@
     </tr>
   </tbody>
 </table>
-
+</div>
+  
 <sub>Fall extension TBD.</sub>
