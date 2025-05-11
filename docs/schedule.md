@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td valign="top">2</td>
-      <td valign="top">Jun 6 🧠 </td>
+      <td valign="top">Jun 06 🧠 </td>
       <td valign="top"><strong>MRI Foundations</strong>
         <ul>
           <li>Basic MR physics</li>
@@ -87,7 +87,7 @@
     </tr>
     <tr>
       <td valign="top">6</td>
-      <td valign="top">Jul 4 🎆 </td>
+      <td valign="top">Jul 04 🎆 </td>
       <td valign="top"><strong>HOLIDAY! NO MEETING</strong></td>
       <td valign="middle">
         <ul>
@@ -138,7 +138,7 @@
     </tr>
     <tr>
       <td valign="top">10</td>
-      <td valign="top">Aug 1 🏃 </td>
+      <td valign="top">Aug 01 🏃 </td>
       <td valign="top"><strong>Hackathon Day</strong>
         <ul>
           <li>Project sprint &amp; troubleshooting</li>
@@ -152,7 +152,7 @@
     </tr>
     <tr>
       <td valign="top">11</td>
-      <td valign="top">Aug 8 🔮 </td>
+      <td valign="top">Aug 08 🔮 </td>
       <td valign="top"><strong>Show‑and‑Tell / Next Steps</strong></td>
       <td valign="middle">
         <ul>
