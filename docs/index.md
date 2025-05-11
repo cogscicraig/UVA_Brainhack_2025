@@ -80,7 +80,6 @@ Here's a roungh draft of the [Weekly Schedule](./schedule.md). I've included a v
 * **BIDS:** [https://bids.neuroimaging.io](https://bids.neuroimaging.io)
 * **fMRIPrep:** [https://fmriprep.org](https://fmriprep.org)
 * **Nilearn Examples:** [https://nilearn.github.io](https://nilearn.github.io)
-* **Brainhack Handbook:** [https://brainhack.org/handbook](https://brainhack.org/handbook)
 
 <br><br>
 
