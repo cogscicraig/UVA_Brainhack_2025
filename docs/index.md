@@ -6,14 +6,18 @@
 <table>
   <thead>
     <tr>
-      <th class="my_nowrap">Where 🏠</th>
+      <th>Where 🏠</th>
       <th>When 🕜</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="my_nowrap">Gilmer 300</td>
-      <td>Fridays @12-5pm* (lunch provided!) - <i>starting <b>May 30th</b></i></td>
+      <td>
+        <ul>Gilmer 300</ul>
+      </td>
+      <td>
+        <ul>Fridays @12-5pm* (lunch provided!) - <i>starting <b>May 30th</b></i></ul>
+      </td>
     </tr>
   </tbody>
 </table>
