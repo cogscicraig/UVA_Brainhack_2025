@@ -1,4 +1,7 @@
 table td, table th {
   vertical-align: top;
+}
+.my_nowrap {
   white-space: nowrap;
+  vertical-align: top;
 }
