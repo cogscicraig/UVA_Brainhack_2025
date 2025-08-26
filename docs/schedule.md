@@ -78,10 +78,12 @@
     <tr>
       <td valign="top">5</td>
       <td valign="top">Jun 27 💻 </td>
-      <td valign="top"><strong>fMRIPrep (I): Running the Pipeline</strong></td>
+      <td valign="top"><strong>Preproc (cont.), Task Design &amp; Analysis</strong></td>
       <td valign="middle">
         <ul>
-          <li>Launch fMRIPrep for one subject</li>
+          <li>Cover additional preprocessing steps (e.g., denoising)</li>
+          <li>Discuss GLM and fundamental stats for fMRI</li>
+          <li>Launch fMRIPrep on Rivanna</li>
         </ul>
       </td>
     </tr>
@@ -98,35 +100,37 @@
     <tr>
       <td valign="top">7</td>
       <td valign="top">Jul 11 🤓 </td>
-      <td valign="top"><strong>fMRIPrep (II): QC &amp; Outputs</strong></td>
+      <td valign="top"><strong>More stats! Review &amp; Group-level fMRI Analysis</strong></td>
       <td valign="middle">
         <ul>
-          <li>Inspect HTML reports</li>
-          <li>Extract confounds</li>
+          <li>Review weeks 1-5</li>
+          <li>Group-level stats</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td valign="top">8</td>
       <td valign="top">Jul 18 📈 </td>
-      <td valign="top"><strong>GLM with Nilearn</strong>
+      <td valign="top"><strong>Machine‑Learning</strong>
         <ul>
-          <li>First‑level (individual) stats</li>
+          <li>Stats review</li>
+          <li>MVPA</li>
+          <li>RSA</li>
         </ul>
       </td>
       <td valign="middle">
         <ul>
-          <li>Build design matrix</li>
-          <li>Plot activation maps</li>
+          <li>Discuss vectorization</li>
+          <li>Special considerations for ML in fMRI</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td valign="top">9</td>
       <td valign="top">Jul 25 🤖 </td>
-      <td valign="top"><strong>Machine‑Learning / MVPA</strong>
+      <td valign="top"><strong>BREAK -- NO MEETING</strong>
         <ul>
-          <li>Decoding with Nilearn + scikit‑learn</li>
+          <li>Taking a break :)</li>
         </ul>
       </td>
       <td valign="middle">
@@ -139,25 +143,49 @@
     <tr>
       <td valign="top">10</td>
       <td valign="top">Aug 01 🏃 </td>
-      <td valign="top"><strong>Hackathon Day</strong>
+      <td valign="top"><strong>Structural MRI</strong>
         <ul>
-          <li>Project sprint &amp; troubleshooting</li>
+          <li>Spin vs. gradient echo imaging</li>
+          <li>VBM</li>
+          <li>Freesurfer basics</li>
+          <li>DTI intro.</li>
         </ul>
       </td>
       <td valign="middle">
         <ul>
-          <li>Code, analyze, document</li>
+          <li>Conceptual overview/discussion</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td valign="top">11</td>
       <td valign="top">Aug 08 🔮 </td>
-      <td valign="top"><strong>Show‑and‑Tell / Next Steps</strong></td>
+      <td valign="top"><strong>Diffusion Imaging</strong></td>
       <td valign="middle">
         <ul>
-          <li>Present projects</li>
-          <li>Plan Fall topics</li>
+          <li>DTI &amp; CSD</li>
+          <li>Special preproc considerations</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">12</td>
+      <td valign="top">Aug 15 </td>
+      <td valign="top"><strong>BREAK -- NO MEETING</strong></td>
+      <td valign="middle">
+        <ul>
+          <li>Taking a break :)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">13</td>
+      <td valign="top">Aug 22 🥇 </td>
+      <td valign="top"><strong>fNIRS</strong></td>
+      <td valign="middle">
+        <ul>
+          <li>Halle Miller presenting!</li>
+          <li>fNIRS: basic mechanism and considerations</li>
         </ul>
       </td>
     </tr>
