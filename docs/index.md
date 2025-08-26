@@ -1,6 +1,6 @@
-# Summer Neuroimaging & Coding Workshop Series
+# ~~Summer~~ Fall Neuroimaging & Coding ~~Workshop~~ Working Lunch Series
 
-*A collaborative, Brainhack‑inspired summer learning space*
+*A collaborative, Brainhack‑inspired ~~summer~~ fall learning space*
 
 <!-- raw HTML below -->
 <table>
@@ -13,18 +13,18 @@
   <tbody>
     <tr>
       <td>
-        <ul><b>Gilmer 300</b></ul>
+        <ul><b>Gilmer 400</b></ul>
       </td>
       <td>
-        <ul><b>Fridays 12-5pm</b>* <i>starting <b>May 30th</b></i></ul>
+        <ul><b>Fridays 12-3pm</b>* <i>starting <b>Aug 29</b></i></ul>
       </td>
     </tr>
   </tbody>
 </table>
 
-\* Lunch meetings will consist of informal lectures/discussion (\~1-2hrs) followed by "hacking" -- time set aside for hands-on learning with code-curious comrades. ***Lunch will be provided*(!)** to folks who sign up, courtesy of the Morris/Connelly Labs 
+\* Lunch meetings will consist of informal lectures/discussion and "hacking" -- time set aside for working/coding and learning. ***Lunch will be provided*(!)** to folks who sign up, courtesy of the Morris/Connelly Labs 
 
-<br> 🥪 Come for the food, stay for the code! 🤖 <br>
+<br> 🥪 Come for the food, stay for the code and camaraderie! 🤖 <br>
 
 <br><br>
 
@@ -35,12 +35,12 @@
 
 <br>
 
-Format and tone inspired by the [Brainhack](https://brainhack.org/about.html) ethos -- open, inclusive, and collaborative -- emphasizing learning-by-doing, peer support, and a relaxed atmosphere 😎☀️ Perfect for summertime, y'all!
+Format and tone inspired by the [Brainhack](https://brainhack.org/about.html) ethos -- open, inclusive, and collaborative -- emphasizing learning-by-doing, peer support, and a relaxed atmosphere 😎☀️ Perfect for ~~summertime~~ fall, y'all!
 
 <br>
 
 * **Open & inclusive.** All experience levels welcome! Questions encouraged, peer-support expected. Come ready to collaborate! <br><br>
-* **Hands‑on.** Most of the time is reserved for "hacking" -- project-based learning in a supportive atmosphere. I will design objectives for group learning once we've finalized the schedule, but folks with prior experience are always welcome to work on their own projects. <br><br>
+* **Hands‑on.** Most of the time is reserved for "hacking" -- project-based learning in a supportive atmosphere. I can design objectives for group learning once we've finalized the schedule, but folks with prior experience are always welcome to work on their own projects. <br><br>
 * **Reproducible.** Will use open data (OpenNeuro) and open tools (BIDS, fMRIPrep, Nilearn) to meet learning objectives. Code and other materials/resources shared via public GitHub repos licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). <br><br>
 * **Fun.** Lunch is social, hacking is collaborative, and all progress is celebrated ☺️ <br><br>
 
@@ -51,23 +51,23 @@ Format and tone inspired by the [Brainhack](https://brainhack.org/about.html) et
 <br><br>
 
 ---
-## Interest Form❗
+## Sign Up❗
 
-Please complete the associated [INTEREST FORM](https://docs.google.com/forms/d/e/1FAIpQLSfvPhS4zap0IQcJPFgHGkHC3FtQ1hPoZa68psjaY3ugceDI2A/viewform?usp=sharing) if you plan on joining us. If there's a topic you want to learn, let it be known; if there's a topic you want to teach, even better! I've prepared a tentative schedule based on initial responses (see below), but it's super flexible.
+Please add your name to the [sign-up sheet](https://docs.google.com/forms/d/e/1FAIpQLSfvPhS4zap0IQcJPFgHGkHC3FtQ1hPoZa68psjaY3ugceDI2A/viewform?usp=sharing) if you plan on joining us. If there's a topic you want to learn, let it be known; if there's a topic you want to teach, even better!
 <br><br>
 
 ---
-## (Tentative) Schedule 📅
+## Summer Schedule 📅
 
-Here's a rough draft of the [Weekly Schedule](./schedule.md). I've included a very basic list of topics we *could* cover, but I'm happy to make adjustments -- it depends on who wants to participate and what people say on the interest form (so please fill it out).
+Here's what we covered over the summmer: [Weekly Schedule (summer)](./schedule.md). The fall will consist of fewer presentations and more unstructured time for hacking. That being said, I'm happy to cover any summer material in the fall with folks who are interested in learning more about MRI, etc.
 
 <br><br>
 
 ---
 ## Quick Start 🚀
 
-1. **Complete the [INTEREST FORM](https://docs.google.com/forms/d/e/1FAIpQLSfvPhS4zap0IQcJPFgHGkHC3FtQ1hPoZa68psjaY3ugceDI2A/viewform?usp=sharing)** if you haven't already
-3. **Create a GitHub account** if you don’t have one
+1. **[SIGN UP](https://docs.google.com/forms/d/e/1FAIpQLSfvPhS4zap0IQcJPFgHGkHC3FtQ1hPoZa68psjaY3ugceDI2A/viewform?usp=sharing)** if you haven't already
+3. **Create a GitHub account** if you don’t have one -- we will occasionally upload scripts, slides, and other materials here.
 4. **[Get in touch](./contact.md)!** -- Let me know if you have any questions, concerns, or recommendations. I'm all ears! Let's make the most of this 😄
 
 <br><br>
