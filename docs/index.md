@@ -53,11 +53,13 @@ Format and tone inspired by the [Brainhack](https://brainhack.org/about.html) et
 ---
 ## Sign Up❗
 
-Please add your name to the [sign-up sheet](https://docs.google.com/forms/d/e/1FAIpQLSfvPhS4zap0IQcJPFgHGkHC3FtQ1hPoZa68psjaY3ugceDI2A/viewform?usp=sharing) if you plan on joining us. If there's a topic you want to learn, let it be known; if there's a topic you want to teach, even better!
+Please add your name to the [sign-up sheet](https://docs.google.com/spreadsheets/d/1e1zSQh6hq7rM9fsfalK22W8-5glf5HQUrL3h8BAPWu0/edit?usp=sharing) if you plan on joining us. If there's a topic you want to learn, let it be known; if there's a topic you want to teach, even better!
 <br><br>
 
+Add your info to the [lunch order sheet](https://docs.google.com/spreadsheets/d/1k7B7BAKK8tfPIolQIImCGwrLAVtIFh1vkNX7Xsqdkis/edit?usp=sharing)! ***Please enter/update your order by Wednesday afternoon*** so the Roots staff have enough time to prepare.
+
 ---
-## Summer Schedule 📅
+## Summer Schedule (old) 📅
 
 Here's what we covered over the summmer: [Weekly Schedule (summer)](./schedule.md). The fall will consist of fewer presentations and more unstructured time for hacking. That being said, I'm happy to cover any summer material in the fall with folks who are interested in learning more about MRI, etc.
 
@@ -66,7 +68,8 @@ Here's what we covered over the summmer: [Weekly Schedule (summer)](./schedule.m
 ---
 ## Quick Start 🚀
 
-1. **[SIGN UP](https://docs.google.com/forms/d/e/1FAIpQLSfvPhS4zap0IQcJPFgHGkHC3FtQ1hPoZa68psjaY3ugceDI2A/viewform?usp=sharing)** if you haven't already
+1. **[SIGN UP](https://docs.google.com/spreadsheets/d/1e1zSQh6hq7rM9fsfalK22W8-5glf5HQUrL3h8BAPWu0/edit?usp=sharing)** if you haven't already
+2. **[Add your lunch order to the list](https://docs.google.com/spreadsheets/d/1k7B7BAKK8tfPIolQIImCGwrLAVtIFh1vkNX7Xsqdkis/edit?usp=sharing)**
 3. **Create a GitHub account** if you don’t have one -- we will occasionally upload scripts, slides, and other materials here.
 4. **[Get in touch](./contact.md)!** -- Let me know if you have any questions, concerns, or recommendations. I'm all ears! Let's make the most of this 😄
 
